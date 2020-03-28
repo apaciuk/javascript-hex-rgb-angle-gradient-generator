@@ -9,6 +9,7 @@ https://relaxed-johnson-3b7cdd.netlify.com
 
 ### Repo 
 
+https://github.com/xhostcom/javascript-hex-rgb-angle-gradient-generator.git
 
 ### Author
 
